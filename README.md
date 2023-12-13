@@ -1,6 +1,6 @@
 AIMS V1.0 is an artificial intelligence assisted diagnosis modeling software platform. It is jointly developed by the Medical Image Processing Group in the Suzhou Institute of Biomedical Engineering and Technology and Suzhou Guoke Kangcheng Medical Technology Co., Ltd.. The main advantages of AIMS V1.0 are as follows: (I) it provides standardized machine learning-based modeling workflows for computer-assisted diagnosis based on medical images.; (II) the standardized workflows and modular design allow users to rapidly configure/build, evaluate, and compare different models for specific applications; (III) the user-friendly graphical user interface enables users to efficiently analyze large numbers of medical images without programming or editing scripts; and (IV) it provides an image-processing toolkit (such as segmentation and morphological operations) for convenience of lesion-labeling tasks.
 
-Download link：https://www.remotehealth.cn/ruiying/#/opensource
+Download link：https://www.remotehealth.cn/AIMS/#/opensource
 
 Recommended system requirements：
 CPU: Intel Core i5-10400F 2.9 GHz 6-Core Processor and higher
